@@ -15,7 +15,6 @@ Run all tests:
 npm run test
 
 Run tests for Home page only:
-
 npm run test:home
 
 Run tests for Contact page only:
