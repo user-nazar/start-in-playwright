@@ -1,4 +1,4 @@
-# Start in Playwright
+# Start in Playwright Framework
 
 This repository contains a basic setup for automated tests using the [Playwright](https://playwright.dev/) framework. You can run all tests, individual tests, or debug them in an interactive browser.
 
